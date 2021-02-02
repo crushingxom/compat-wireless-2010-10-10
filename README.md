@@ -11,7 +11,7 @@ apt upgrade
 
 ----------------------------
 
-git clone https://github.com/crushingxom/compat-wireless-2010-10-10
+git clone https://github.com/crushingxom/compat-wireless-2010-10-10.git
 
 unzip compat-wireless-2010-10-10
 
